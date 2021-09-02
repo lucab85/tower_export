@@ -1,4 +1,5 @@
 ---
 collections:
   - name: ansible.tower
+    version: 3.8.1
 
